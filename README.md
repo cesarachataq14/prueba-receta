@@ -5,5 +5,5 @@ Proyecto de practica del curso Git y GitHub (PIT 2026, UNI).
 - Ramas y merges de la sesion 3.
 ## Porciones
 4 vasos
--publicado hoy
--nuevo cambio
+- publicado hoy
+- nuevo cambio
