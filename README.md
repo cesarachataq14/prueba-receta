@@ -7,4 +7,4 @@ Proyecto de practica del curso Git y GitHub (PIT 2026, UNI).
 4 vasos
 - publicado hoy
 - nuevo cambio
--toque secreto de mi jared bonito
+- Conflicto resuelto
