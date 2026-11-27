@@ -8,3 +8,4 @@ Proyecto de practica del curso Git y GitHub (PIT 2026, UNI).
 - publicado hoy
 - nuevo cambio
 - Conflicto resuelto
+Etiquetada como v1.0.0 en la sesion 6.
